@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-down</title>
+    <g id="OKBOX" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="OKBOX首页" transform="translate(-1491.000000, -805.000000)">
+            <g id="编组-28" transform="translate(1482.000000, 796.000000)">
+                <g id="arrow-down" transform="translate(19.000000, 19.000000) rotate(270.000000) translate(-19.000000, -19.000000) translate(9.000000, 9.000000)">
+                    <path d="M16.6000652,7.45829264 L11.1667315,12.8916264 C10.5250649,13.533293 9.47506547,13.533293 8.83339882,12.8916264 L3.4000651,7.45829264" id="Vector" stroke="#1F2128" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" fill-rule="nonzero"></path>
+                    <path d="M20,0 L20,20 L0,20 L0,0 L20,0 Z" id="Vector" opacity="0" transform="translate(10.000000, 10.000000) rotate(-180.000000) translate(-10.000000, -10.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
